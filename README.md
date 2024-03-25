@@ -4,7 +4,8 @@ eCommerce data provides information collected from the eCommerce industry – on
 # Tools Used: SQL, SQL Server
 
 # Databases Used:
-# Customer 
+[Customer](https://github.com/Pavithragovindarajulu/Data_Analysis_Retail_business_SQL/blob/main/Customers_new.csv)
+
  Houses a detailed customer database schema with fields including date of birth (DOB), customer ID, gender, and city. Provides SQL queries and scripts for comprehensive customer insights, segmentation, and 
  analytics to drive data-driven business decisions.
 
