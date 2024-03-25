@@ -9,7 +9,7 @@ eCommerce data provides information collected from the eCommerce industry – on
  Houses a detailed customer database schema with fields including date of birth (DOB), customer ID, gender, and city. Provides SQL queries and scripts for comprehensive customer insights, segmentation, and 
  analytics to drive data-driven business decisions.
 
-## [Transactions](https://github.com/Pavithragovindarajulu/Data_Analysis_Retail_business_SQL/blob/main/Customers_new.csv)
+## [Transactions](https://github.com/Pavithragovindarajulu/Data_Analysis_Retail_business_SQL/blob/main/Transactions.csv)
  Dedicated to fetching and analyzing transactional data from a comprehensive table. The table encompasses essential fields like transaction ID, date, mode, store type, product sub-code, rate, taxes, total amount, 
  and return amount. This repository offers SQL queries and scripts tailored for extracting, processing, and interpreting transaction data. It aims to provide valuable insights into customer purchasing behavior, 
  product performance, and financial metrics, enabling businesses to make informed decisions and optimize sales strategies."
