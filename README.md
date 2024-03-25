@@ -1,5 +1,8 @@
 # <p align="center">E-Commerce Data Analysis Project</p>
 eCommerce data provides information collected from the eCommerce industry – online retail  sites – about products, pricing, sales performance, and customers. Companies with an online retail presence use the data to gain insights into customer behavior and improve their experience. Online businesses and eCommerce retailers leverage eCommerce data to understand how their business performs, carry out competitor analysis, and drive higher online sales.
+
+# Tools Used: SQL, SQL Server
+
 # Databases Used:
 # Customer 
  Houses a detailed customer database schema with fields including date of birth (DOB), customer ID, gender, and city. Provides SQL queries and scripts for comprehensive customer insights, segmentation, and 
@@ -15,8 +18,6 @@ eCommerce data provides information collected from the eCommerce industry – on
  designed to efficiently fetch and process this data. It aims to provide businesses with insights into product preferences, category trends, and customer purchasing behavior. By leveraging this repository, 
  organizations can better understand their product landscape and tailor their marketing and inventory strategies to meet customer demands effectively.
  
-# Tools Used: SQL, SQL Server
-
 # Business Needs: 
 The primary business objective is to gain insights into customer behavior using point-of-sale (POS) data from our retail store. Through comprehensive data analysis, we aim to uncover purchasing trends, product 
 preferences, and customer segmentation. This analysis will enable us to optimize inventory levels, tailor marketing campaigns, and enhance the overall shopping experience. By understanding customer behavior more deeply, we strive to make informed decisions that drive sales growth, increase profitability, and build stronger relationships with our customers."
