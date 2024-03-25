@@ -1,5 +1,5 @@
-# Data_Analysis_Retail_business_SQL
-A GitHub repository housing SQL scripts and queries tailored for retail business analytics. Includes database schemas, data manipulation scripts, and advanced SQL queries to optimize retail operations, sales analysis, and customer insights. Ideal for enhancing retail business intelligence and data-driven decision-making.
+# <p align="center">E-Commerce Data Analysis Project</p>
+eCommerce data provides information collected from the eCommerce industry – online retail  sites – about products, pricing, sales performance, and customers. Companies with an online retail presence use the data to gain insights into customer behavior and improve their experience. Online businesses and eCommerce retailers leverage eCommerce data to understand how their business performs, carry out competitor analysis, and drive higher online sales.
 # Databases Used:
 # Customer 
  Houses a detailed customer database schema with fields including date of birth (DOB), customer ID, gender, and city. Provides SQL queries and scripts for comprehensive customer insights, segmentation, and 
